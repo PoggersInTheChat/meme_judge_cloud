@@ -1,0 +1,351 @@
+13-10-2020 11:47:35 [LOG] y є є τ Ъ σ ¡ asked for a bruh moment at #pog
+13-10-2020 11:47:27 [LOG] y є є τ Ъ σ ¡ requested a judgement at #pog, the result is "illegal.mp4", file N° 1
+13-10-2020 11:47:22 [ERR] WARNING: unknown command at #pog: user y є є τ Ъ σ ¡ typed "test"
+13-10-2020 11:47:12 [LOG] There are currently 16 videos avalible
+13-10-2020 11:47:12 [LOG] In case of unsupported characters, look up the "logs.txt" file
+13-10-2020 11:47:12 [LOG] The Judge is online
+13-10-2020 11:47:03 [LOG] There are currently 16 videos avalible
+13-10-2020 11:47:03 [LOG] In case of unsupported characters, look up the "logs.txt" file
+13-10-2020 11:47:03 [LOG] The Judge is online
+13-10-2020 11:20:53 [LOG] There are currently 16 videos avalible
+13-10-2020 11:20:53 [LOG] In case of unsupported characters, look up the "logs.txt" file
+13-10-2020 11:20:53 [LOG] The Judge is online
+13-10-2020 09:17:18 [LOG] bruh.mp3 has finished
+13-10-2020 09:17:17 [LOG] bruh.mp3 has started
+13-10-2020 08:01:45 [LOG] There are currently 16 videos avalible
+13-10-2020 08:01:45 [LOG] In case of unsupported characters, look up the "logs.txt" file
+13-10-2020 08:01:45 [LOG] The Judge is online
+12-10-2020 09:49:59 [LOG] Magidoof requested a judgement at #📷memes, the result is "death.mp4", file N° 2
+12-10-2020 09:49:11 [LOG] Magidoof requested a judgement at #📷memes, the result is "nah.mp4", file N° 6
+12-10-2020 08:13:00 [LOG] There are currently 16 videos avalible
+12-10-2020 08:13:00 [LOG] In case of unsupported characters, look up the "logs.txt" file
+12-10-2020 08:13:00 [LOG] The Judge is online
+11-10-2020 18:46:27 [LOG] RocketG requested a judgement at #📷memes, the result is "up.mp4", file N° 8
+11-10-2020 17:16:52 [LOG] bruh.mp3 has finished
+11-10-2020 17:16:51 [LOG] bruh.mp3 has started
+11-10-2020 16:27:07 [LOG] There are currently 16 videos avalible
+11-10-2020 16:27:07 [LOG] In case of unsupported characters, look up the "logs.txt" file
+11-10-2020 16:27:07 [LOG] The Judge is online
+11-10-2020 13:02:58 [LOG] There are currently 16 videos avalible
+11-10-2020 13:02:58 [LOG] In case of unsupported characters, look up the "logs.txt" file
+11-10-2020 13:02:58 [LOG] The Judge is online
+11-10-2020 12:54:45 [LOG] There are currently 16 videos avalible
+11-10-2020 12:54:45 [LOG] In case of unsupported characters, look up the "logs.txt" file
+11-10-2020 12:54:45 [LOG] The Judge is online
+11-10-2020 12:07:50 [LOG] There are currently 16 videos avalible
+11-10-2020 12:07:50 [LOG] In case of unsupported characters, look up the "logs.txt" file
+11-10-2020 12:07:50 [LOG] The Judge is online
+11-10-2020 12:05:31 [LOG] There are currently 16 videos avalible
+11-10-2020 12:05:31 [LOG] In case of unsupported characters, look up the "logs.txt" file
+11-10-2020 12:05:31 [LOG] The Judge is online
+11-10-2020 11:19:06 [LOG] bruh.mp3 has finished
+11-10-2020 11:19:05 [LOG] bruh.mp3 has started
+11-10-2020 11:01:30 [LOG] bruh.mp3 has finished
+11-10-2020 11:01:29 [LOG] bruh.mp3 has started
+11-10-2020 11:01:18 [LOG] bruh.mp3 has finished
+11-10-2020 11:01:17 [LOG] bruh.mp3 has started
+11-10-2020 11:00:04 [LOG] There are currently 16 videos avalible
+11-10-2020 11:00:04 [LOG] In case of unsupported characters, look up the "logs.txt" file
+11-10-2020 11:00:04 [LOG] The Judge is online
+11-10-2020 10:58:02 [ERR] WARNING: unknown command at #pog: user y є є τ Ъ σ ¡ typed "test"
+11-10-2020 10:57:53 [MES] y є є τ Ъ σ ¡ said :" olalo"
+11-10-2020 10:57:35 [LOG] y є є τ Ъ σ ¡ asked for a bruh moment at #pog
+11-10-2020 10:57:29 [LOG] user y є є τ Ъ σ ¡ asked for file N° "16" (./content/destroyed.mp4)
+11-10-2020 10:57:09 [LOG] y є є τ Ъ σ ¡ requested a judgement at #pog, the result is "death2.mp4", file N° 7
+11-10-2020 10:57:05 [LOG] There are currently 16 videos avalible
+11-10-2020 10:57:05 [LOG] In case of unsupported characters, look up the "logs.txt" file
+11-10-2020 10:57:05 [LOG] The Judge is online
+11-10-2020 10:54:21 [LOG] bruh.mp3 has started
+11-10-2020 10:54:15 [LOG] There are currently 16 videos avalible
+11-10-2020 10:54:15 [LOG] In case of unsupported characters, look up the "logs.txt" file
+11-10-2020 10:54:15 [LOG] The Judge is online
+11-10-2020 10:53:51 [LOG] bruh.mp3 has started
+11-10-2020 10:53:44 [LOG] There are currently 16 videos avalible
+11-10-2020 10:53:44 [LOG] In case of unsupported characters, look up the "logs.txt" file
+11-10-2020 10:53:44 [LOG] The Judge is online
+11-10-2020 10:52:17 [LOG] bruh.mp3 has started
+11-10-2020 10:50:35 [LOG] y є є τ Ъ σ ¡ requested a judgement at #pog, the result is "destroyed.mp4", file N° 15
+11-10-2020 10:50:01 [LOG] There are currently 16 videos avalible
+11-10-2020 10:50:00 [LOG] In case of unsupported characters, look up the "logs.txt" file
+11-10-2020 10:50:00 [LOG] The Judge is online
+11-10-2020 10:46:01 [LOG] There are currently 16 videos avalible
+11-10-2020 10:46:01 [LOG] In case of unsupported characters, look up the "logs.txt" file
+11-10-2020 10:46:01 [LOG] The Judge is online
+11-10-2020 10:42:19 [LOG] There are currently 16 videos avalible
+11-10-2020 10:42:19 [LOG] In case of unsupported characters, look up the "logs.txt" file
+11-10-2020 10:42:19 [LOG] The Judge is online
+11-10-2020 10:34:37 [LOG] There are currently 16 videos avalible
+11-10-2020 10:34:37 [LOG] In case of unsupported characters, look up the "logs.txt" file
+11-10-2020 10:34:37 [LOG] The Judge is online
+11-10-2020 10:25:13 [LOG] There are currently 16 videos avalible
+11-10-2020 10:25:13 [LOG] In case of unsupported characters, look up the "logs.txt" file
+11-10-2020 10:25:13 [LOG] The Judge is online
+11-10-2020 10:24:17 [LOG] There are currently 16 videos avalible
+11-10-2020 10:24:17 [LOG] In case of unsupported characters, look up the "logs.txt" file
+11-10-2020 10:24:17 [LOG] The Judge is online
+11-10-2020 10:22:27 [LOG] y є є τ Ъ σ ¡ requested a judgement at #pog, the result is "noread.mp4", file N° 10
+11-10-2020 10:22:21 [LOG] There are currently 16 videos avalible
+11-10-2020 10:22:21 [LOG] In case of unsupported characters, look up the "logs.txt" file
+11-10-2020 10:22:21 [LOG] The Judge is online
+11-10-2020 10:20:15 [LOG] There are currently 16 videos avalible
+11-10-2020 10:20:15 [LOG] In case of unsupported characters, look up the "logs.txt" file
+11-10-2020 10:20:15 [LOG] The Judge is online
+11-10-2020 09:50:51 [LOG] user y є є τ Ъ σ ¡ asked for file N° "NaN" (undefined)
+11-10-2020 09:50:38 [LOG] There are currently 16 videos avalible
+11-10-2020 09:50:38 [LOG] In case of unsupported characters, look up the "logs.txt" file
+11-10-2020 09:50:38 [LOG] The Judge is online
+11-10-2020 08:08:41 [LOG] There are currently 16 videos avalible
+11-10-2020 08:08:41 [LOG] In case of unsupported characters, look up the "logs.txt" file
+11-10-2020 08:08:41 [LOG] The Judge is online
+10-10-2020 11:12:38 [LOG] user clodarzio asked for file N° "1" (./content/classic.mp4)
+10-10-2020 10:58:06 [LOG] Magidoof requested a judgement at #📷memes, the result is "scatman.mp4", file N° 5
+10-10-2020 10:56:31 [LOG] Magidoof requested a judgement at #📷memes, the result is "up.mp4", file N° 8
+10-10-2020 10:54:09 [LOG] y є є τ Ъ σ ¡ requested a judgement at #📷memes, the result is "nah.mp4", file N° 6
+10-10-2020 10:54:01 [LOG] Magidoof requested a judgement at #📷memes, the result is "destroyed.mp4", file N° 15
+10-10-2020 10:52:17 [LOG] Magidoof requested a judgement at #📷memes, the result is "destroyed.mp4", file N° 15
+10-10-2020 10:48:54 [LOG] Magidoof requested a judgement at #📷memes, the result is "death2.mp4", file N° 7
+10-10-2020 10:48:16 [LOG] Magidoof requested a judgement at #📷memes, the result is "nah.mp4", file N° 6
+10-10-2020 10:47:36 [LOG] Magidoof requested a judgement at #📷memes, the result is "death.mp4", file N° 2
+10-10-2020 10:13:12 [LOG] There are currently 16 videos avalible
+10-10-2020 10:13:12 [LOG] In case of unsupported characters, look up the "logs.txt" file
+10-10-2020 10:13:12 [LOG] The Judge is online
+10-10-2020 10:12:16 [LOG] y є є τ Ъ σ ¡ requested a judgement at #pog, the result is "idk.mp4", file N° 3
+10-10-2020 10:11:45 [LOG] There are currently 16 videos avalible
+10-10-2020 10:11:45 [LOG] In case of unsupported characters, look up the "logs.txt" file
+10-10-2020 10:11:45 [LOG] The Judge is online
+10-10-2020 10:02:05 [LOG] user clodarzio asked for file N° "16" (./content/destroyed.mp4)
+10-10-2020 10:01:48 [LOG] user clodarzio asked for file N° "15" (./content/nofind.mp4)
+10-10-2020 09:15:54 [LOG] y є є τ Ъ σ ¡ requested a judgement at #pog, the result is "shitmeme.mp4", file N° 12
+10-10-2020 09:07:49 [ERR] Gappe required the wrong file number (69)
+10-10-2020 09:07:39 [LOG] There are currently 16 videos avalible
+10-10-2020 09:07:39 [LOG] In case of unsupported characters, look up the "logs.txt" file
+10-10-2020 09:07:39 [LOG] The Judge is online
+10-10-2020 09:07:07 [ERR] Gappe required the wrong file number (56)
+10-10-2020 09:06:18 [LOG] user y є є τ Ъ σ ¡ asked for file N° "1" (./content/classic.mp4)
+10-10-2020 09:05:52 [LOG] user y є є τ Ъ σ ¡ asked for file N° "16" (./content/destroyed.mp4)
+10-10-2020 09:05:26 [ERR] y є є τ Ъ σ ¡ required the wrong file number (0)
+10-10-2020 09:05:14 [LOG] There are currently 16 videos avalible
+10-10-2020 09:05:14 [LOG] In case of unsupported characters, look up the "logs.txt" file
+10-10-2020 09:05:14 [LOG] The Judge is online
+10-10-2020 09:04:42 [ERR] y є є τ Ъ σ ¡ required the wrong file number (0)
+10-10-2020 09:04:17 [LOG] There are currently 16 videos avalible
+10-10-2020 09:04:17 [LOG] In case of unsupported characters, look up the "logs.txt" file
+10-10-2020 09:04:17 [LOG] The Judge is online
+10-10-2020 08:58:51 [LOG] y є є τ Ъ σ ¡ requested a judgement at #📷memes, the result is "scatman.mp4", file N° 5
+10-10-2020 08:57:27 [LOG] y є є τ Ъ σ ¡ did a test at #pog
+10-10-2020 08:57:19 [LOG] There are currently 15 videos avalible
+10-10-2020 08:57:19 [LOG] In case of unsupported characters, look up the "logs.txt" file
+10-10-2020 08:57:19 [LOG] The Judge is online
+10-10-2020 08:52:47 [LOG] y є є τ Ъ σ ¡ did a test at #pog
+10-10-2020 08:52:13 [LOG] There are currently 15 videos avalible
+10-10-2020 08:52:13 [LOG] In case of unsupported characters, look up the "logs.txt" file
+10-10-2020 08:52:13 [LOG] The Judge is online
+10-10-2020 08:51:20 [ERR] WARNING: unknown command at #pog: user y є є τ Ъ σ ¡ typed "test"
+10-10-2020 08:51:12 [MES] y є є τ Ъ σ ¡ said : stocazzo
+10-10-2020 08:50:05 [LOG] user Gappe asked for file N° "12" (./content/support.mp4)
+10-10-2020 08:49:40 [LOG] There are currently 15 videos avalible
+10-10-2020 08:49:40 [LOG] In case of unsupported characters, look up the "logs.txt" file
+10-10-2020 08:49:40 [LOG] The Judge is online
+10-10-2020 08:47:43 [ERR] WARNING: unknown command at #pog: user y є є τ Ъ σ ¡ typed ""
+10-10-2020 08:47:32 [LOG] There are currently 15 videos avalible
+10-10-2020 08:47:32 [LOG] In case of unsupported characters, look up the "logs.txt" file
+10-10-2020 08:47:32 [LOG] The Judge is online
+10-10-2020 08:46:12 [ERR] WARNING: unknown command at #pog: user y є є τ Ъ σ ¡ typed "test"
+10-10-2020 08:44:11 [LOG] There are currently 15 videos avalible
+10-10-2020 08:44:11 [LOG] In case of unsupported characters, look up the "logs.txt" file
+10-10-2020 08:44:11 [LOG] The Judge is online
+10-10-2020 08:44:03 [LOG] There are currently 15 videos avalible
+10-10-2020 08:44:03 [LOG] In case of unsupported characters, look up the "logs.txt" file
+10-10-2020 08:44:03 [LOG] The Judge is online
+10-10-2020 08:43:27 [ERR] y є є τ Ъ σ ¡ required the wrong file number (0)
+10-10-2020 08:43:22 [LOG] There are currently 15 videos avalible
+10-10-2020 08:43:22 [LOG] In case of unsupported characters, look up the "logs.txt" file
+10-10-2020 08:43:22 [LOG] The Judge is online
+10-10-2020 08:42:52 [LOG] user y є є τ Ъ σ ¡ asked for file N° "0" (undefined)
+10-10-2020 08:40:30 [LOG] user y є є τ Ъ σ ¡ asked for file N° "15" (./content/nofind.mp4)
+10-10-2020 08:39:44 [LOG] user y є є τ Ъ σ ¡ asked for file N° "1" (./content/classic.mp4)
+10-10-2020 08:39:36 [LOG] There are currently 15 videos avalible
+10-10-2020 08:39:36 [LOG] In case of unsupported characters, look up the "logs.txt" file
+10-10-2020 08:39:36 [LOG] The Judge is online
+10-10-2020 08:38:45 [LOG] user y є є τ Ъ σ ¡ asked for file N° "1" (./content/illegal.mp4)
+10-10-2020 08:38:36 [LOG] There are currently 15 videos avalible
+10-10-2020 08:38:36 [LOG] In case of unsupported characters, look up the "logs.txt" file
+10-10-2020 08:38:36 [LOG] The Judge is online
+10-10-2020 08:37:07 [LOG] There are currently 15 videos avalible
+10-10-2020 08:37:07 [LOG] In case of unsupported characters, look up the "logs.txt" file
+10-10-2020 08:37:07 [LOG] The Judge is online
+10-10-2020 08:36:46 [LOG] In case of unsupported characters, look up the "logs.txt" file
+10-10-2020 08:36:46 [LOG] The Judge is online
+10-10-2020 08:33:29 [ERR] y є є τ Ъ σ ¡ required the wrong file number (16)
+10-10-2020 08:32:55 [LOG] user y є є τ Ъ σ ¡ asked for file N° "14" (./content/nofind.mp4)
+10-10-2020 08:32:41 [LOG] user y є є τ Ъ σ ¡ asked for file N° "13" (./content/notfunny.mp4)
+10-10-2020 08:32:13 [LOG] In case of unsupported characters, look up the "logs.txt" file
+10-10-2020 08:32:13 [LOG] The Judge is online
+10-10-2020 08:30:30 [ERR] y є є τ Ъ σ ¡ required the wrong file number (0)
+10-10-2020 08:24:12 [LOG] In case of unsupported characters, look up the "logs.txt" file
+10-10-2020 08:24:12 [LOG] The Judge is online
+9-10-2020 16:34:17 [LOG] In case of unsupported characters, look up the "logs.txt" file
+9-10-2020 16:34:17 [LOG] The Judge is online
+9-10-2020 16:33:50 [LOG] In case of unsupported characters, look up the "logs.txt" file
+9-10-2020 16:33:50 [LOG] The Judge is online
+9-10-2020 13:59:20 [ERR] y є є τ Ъ σ ¡ required the wrong file number (0)
+9-10-2020 13:59:15 [LOG] In case of unsupported characters, look up the "logs.txt" file
+9-10-2020 13:59:15 [LOG] The Judge is online
+9-10-2020 13:58:59 [ERR] y є є τ Ъ σ ¡ required the wrong file number (0)
+9-10-2020 13:58:50 [LOG] In case of unsupported characters, look up the "logs.txt" file
+9-10-2020 13:58:50 [LOG] The Judge is online
+9-10-2020 13:58:04 [LOG] In case of unsupported characters, look up the "logs.txt" file
+9-10-2020 13:58:04 [LOG] The Judge is online
+9-10-2020 13:57:46 [ERR] y є є τ Ъ σ ¡ required the wrong file number (-1)
+9-10-2020 13:57:39 [LOG] In case of unsupported characters, look up the "logs.txt" file
+9-10-2020 13:57:39 [LOG] The Judge is online
+9-10-2020 13:57:11 [ERR] y є є τ Ъ σ ¡ required the wrong file number (15)
+9-10-2020 13:57:01 [LOG] In case of unsupported characters, look up the "logs.txt" file
+9-10-2020 13:57:01 [LOG] The Judge is online
+9-10-2020 13:55:32 [ERR] unauthorized channel, user RocketG tried to initialize the bot at #🍆nsfw
+9-10-2020 13:55:27 [LOG] user y є є τ Ъ σ ¡ asked for file N° "-1" (undefined)
+9-10-2020 13:55:09 [LOG] user y є є τ Ъ σ ¡ asked for file N° "14" (./content/nofind.mp4)
+9-10-2020 13:54:57 [LOG] In case of unsupported characters, look up the "logs.txt" file
+9-10-2020 13:54:57 [LOG] The Judge is online
+9-10-2020 13:53:15 [ERR] y є є τ Ъ σ ¡ required the wrong file number (15)
+9-10-2020 13:53:04 [LOG] user y є є τ Ъ σ ¡ asked for file N° "2" (./content/death.mp4)
+9-10-2020 13:52:52 [LOG] In case of unsupported characters, look up the "logs.txt" file
+9-10-2020 13:52:52 [LOG] The Judge is online
+9-10-2020 13:48:54 [LOG] user clodarzio asked for file N° "0" (./content/classic.mp4)
+9-10-2020 13:48:50 [LOG] user y є є τ Ъ σ ¡ asked for file N° "15" (undefined)
+9-10-2020 13:48:25 [ERR] y є є τ Ъ σ ¡ required the wrong file number (15)
+9-10-2020 13:48:08 [LOG] user y є є τ Ъ σ ¡ asked for file N° "14" (./content/nofind.mp4)
+9-10-2020 13:47:57 [LOG] In case of unsupported characters, look up the "logs.txt" file
+9-10-2020 13:47:57 [LOG] The Judge is online
+9-10-2020 13:38:57 [LOG] user clodarzio asked for file N° "6" (./content/nah.mp4)
+9-10-2020 13:38:16 [LOG] user Magidoof asked for file N° "31" (undefined)
+9-10-2020 13:37:53 [LOG] user Gappe asked for file N° "14" (./content/nofind.mp4)
+9-10-2020 13:37:47 [LOG] user Magidoof asked for file N° "10" (./content/noread.mp4)
+9-10-2020 13:36:24 [LOG] user y є є τ Ъ σ ¡ asked for file N° "14" (./content/nofind.mp4)
+9-10-2020 13:36:12 [LOG] user y є є τ Ъ σ ¡ asked for file N° "15" (undefined)
+9-10-2020 13:35:09 [LOG] user y є є τ Ъ σ ¡ asked for file N° "14" (./content/nofind.mp4)
+9-10-2020 13:34:59 [LOG] In case of unsupported characters, look up the "logs.txt" file
+9-10-2020 13:34:59 [LOG] The Judge is online
+9-10-2020 13:34:08 [LOG] Gappe has missing permission for "judge.num"
+9-10-2020 13:33:13 [LOG] y є є τ Ъ σ ¡ has missing permission for "judge.num"
+9-10-2020 13:31:47 [LOG] In case of unsupported characters, look up the "logs.txt" file
+9-10-2020 13:31:47 [LOG] The Judge is online
+9-10-2020 13:24:39 [LOG] user clodarzio asked for file N° "10" (./content/noread.mp4)
+9-10-2020 13:23:56 [LOG] y є є τ Ъ σ ¡ has missing permission for "judge.num"
+9-10-2020 13:23:10 [LOG] In case of unsupported characters, look up the "logs.txt" file
+9-10-2020 13:23:10 [LOG] The Judge is online
+9-10-2020 13:22:33 [LOG] In case of unsupported characters, look up the "logs.txt" file
+9-10-2020 13:22:33 [LOG] The Judge is online
+9-10-2020 13:13:44 [LOG] In case of unsupported characters, look up the "logs.txt" file
+9-10-2020 13:13:44 [LOG] The Judge is online
+9-10-2020 12:57:46 [LOG] user Magidoof asked for file N° "11" (./content/support.mp4)
+9-10-2020 12:57:07 [LOG] user Magidoof asked for file N° "12" (./content/shitmeme.mp4)
+9-10-2020 12:56:22 [LOG] user Magidoof asked for file N° "13" (./content/notfunny.mp4)
+9-10-2020 12:54:42 [LOG] user Gappe asked for file N° "14" (./content/nofind.mp4)
+9-10-2020 12:54:03 [LOG] user y є є τ Ъ σ ¡ asked for file N° "14" (./content/nofind.mp4)
+9-10-2020 12:51:18 [LOG] user y є є τ Ъ σ ¡ asked for file N° "10" (./content/noread.mp4)
+9-10-2020 12:51:07 [LOG] In case of unsupported characters, look up the "logs.txt" file
+9-10-2020 12:51:07 [LOG] The Judge is online
+9-10-2020 12:50:09 [LOG] In case of unsupported characters, look up the "logs.txt" file
+9-10-2020 12:50:09 [LOG] The Judge is online
+9-10-2020 12:29:19 [LOG] RocketG requested a judgement at #📷memes, the result is "death2.mp4", file N° 7
+9-10-2020 12:25:47 [LOG] In case of unsupported characters, look up the "logs.txt" file
+9-10-2020 12:25:47 [LOG] The Judge is online
+9-10-2020 12:25:19 [LOG] y є є τ Ъ σ ¡ requested a judgement at #pog, the result is "notfunny.mp4", file N° 13
+9-10-2020 12:25:12 [LOG] y є є τ Ъ σ ¡ requested a judgement at #pog, the result is "doom.mp4", file N° 4
+9-10-2020 12:25:07 [LOG] y є є τ Ъ σ ¡ requested a judgement at #pog, the result is "illegal.mp4", file N° 1
+9-10-2020 12:25:02 [LOG] y є є τ Ъ σ ¡ requested a judgement at #pog, the result is "up.mp4", file N° 8
+9-10-2020 12:24:55 [LOG] y є є τ Ъ σ ¡ requested a judgement at #pog, the result is "death.mp4", file N° 2
+9-10-2020 12:24:48 [LOG] y є є τ Ъ σ ¡ requested a judgement at #pog, the result is "doom.mp4", file N° 4
+9-10-2020 12:24:43 [LOG] y є є τ Ъ σ ¡ requested a judgement at #pog, the result is "illegal.mp4", file N° 1
+9-10-2020 12:24:35 [LOG] y є є τ Ъ σ ¡ requested a judgement at #pog, the result is "noread.mp4", file N° 10
+9-10-2020 12:24:30 [LOG] y є є τ Ъ σ ¡ requested a judgement at #pog, the result is "death.mp4", file N° 2
+9-10-2020 12:24:26 [LOG] y є є τ Ъ σ ¡ requested a judgement at #pog, the result is "doom.mp4", file N° 4
+9-10-2020 12:24:16 [LOG] y є є τ Ъ σ ¡ requested a judgement at #pog, the result is "support.mp4", file N° 11
+9-10-2020 12:23:59 [LOG] In case of unsupported characters, look up the "logs.txt" file
+9-10-2020 12:23:59 [LOG] The Judge is online
+9-10-2020 11:18:20 [LOG] Gappe requested a judgement at #📷memes, the result is "scatman.mp4", file N° 5
+9-10-2020 11:18:10 [ERR] WARNING: unknown command at #📷memes: user Gappe typed "judjge"
+9-10-2020 10:59:16 [LOG] RocketG requested a judgement at #📷memes, the result is "failed.mp4", file N° 9
+9-10-2020 09:52:06 [LOG] Thry requested a judgement at #📷memes, the result is "death2.mp4", file N° 7
+9-10-2020 09:52:06 [ERR] WARNING: unknown command at #📷memes: user Thry typed "judge'"
+9-10-2020 09:52:06 [LOG] Thry requested a judgement at #📷memes, the result is "noread.mp4", file N° 10
+9-10-2020 09:48:51 [LOG] Thry requested a judgement at #📷memes, the result is "up.mp4", file N° 8
+9-10-2020 09:48:45 [LOG] Thry requested a judgement at #📷memes, the result is "failed.mp4", file N° 9
+9-10-2020 09:47:24 [LOG] Thry requested a judgement at #📷memes, the result is "doom.mp4", file N° 4
+9-10-2020 09:47:20 [LOG] Bazzo requested a judgement at #📷memes, the result is "failed.mp4", file N° 9
+9-10-2020 09:45:59 [LOG] Thry requested a judgement at #📷memes, the result is "classic.mp4", file N° 0
+9-10-2020 08:46:34 [LOG] clodarzio requested a judgement at #📷memes, the result is "scatman.mp4", file N° 5
+9-10-2020 08:46:19 [LOG] clodarzio requested a judgement at #📷memes, the result is "nah.mp4", file N° 6
+9-10-2020 07:55:43 [LOG] y є є τ Ъ σ ¡ requested a judgement at #📷memes, the result is "death.mp4", file N° 2
+9-10-2020 07:54:40 [LOG] In case of unsupported characters, look up the "logs.txt" file
+9-10-2020 07:54:40 [LOG] The Judge is online
+7-10-2020 11:08:20 [ERR] WARNING: unknown command at #pog: user Magidoof typed "basato.su.cosa"
+7-10-2020 10:10:41 [LOG] y є є τ Ъ σ ¡ did a test at #pog
+7-10-2020 10:09:19 [LOG] In case of unsupported characters, look up the "logs.txt" file
+7-10-2020 10:09:19 [LOG] The Judge is online
+7-10-2020 10:07:25 [ERR] WARNING: unknown command at #pog: user Gappe typed "basato porcoddio"
+7-10-2020 10:07:17 [ERR] WARNING: unknown command at #pog: user Gappe typed "basato"
+7-10-2020 10:03:35 [LOG] In case of unsupported characters, look up the "logs.txt" file
+7-10-2020 10:03:35 [LOG] The Judge is online
+7-10-2020 09:54:39 [LOG] Magidoof did a test at #pog
+7-10-2020 09:53:17 [LOG] y є є τ Ъ σ ¡ did a test at #pog
+7-10-2020 09:53:09 [LOG] In case of unsupported characters, look up the "logs.txt" file
+7-10-2020 09:53:09 [LOG] The Judge is online
+7-10-2020 09:27:39 [LOG] y є є τ Ъ σ ¡ did a test at #pog
+7-10-2020 09:27:31 [LOG] In case of unsupported characters, look up the "logs.txt" file
+7-10-2020 09:27:31 [LOG] The Judge is online
+7-10-2020 09:25:09 [LOG] y є є τ Ъ σ ¡ did a test at #pog
+7-10-2020 09:24:46 [LOG] In case of unsupported characters, look up the "logs.txt" file
+7-10-2020 09:24:46 [LOG] The Judge is online
+7-10-2020 09:16:20 [LOG] In case of unsupported characters, look up the "logs.txt" file
+7-10-2020 09:16:20 [LOG] The Judge is online
+7-10-2020 09:14:41 [LOG] y є є τ Ъ σ ¡ did a test at #pog
+7-10-2020 09:14:34 [LOG] In case of unsupported characters, look up the "logs.txt" file
+7-10-2020 09:14:34 [LOG] The Judge is online
+7-10-2020 09:14:01 [LOG] y є є τ Ъ σ ¡ did a test at #pog
+7-10-2020 09:13:51 [LOG] In case of unsupported characters, look up the "logs.txt" file
+7-10-2020 09:13:51 [LOG] The Judge is online
+7-10-2020 09:00:02 [LOG] clodarzio requested a judgement at #📷memes, the result is "idk.mp4", file N° 3
+7-10-2020 08:28:44 [LOG] y є є τ Ъ σ ¡ requested a judgement at #pog, the result is "failed.mp4", file N° 9
+7-10-2020 08:28:35 [LOG] y є є τ Ъ σ ¡ asked for a bruh moment at #pog
+7-10-2020 08:28:23 [MES] y є є τ Ъ σ ¡ said :  sto cazzo
+7-10-2020 08:28:07 [ERR] WARNING: unknown command at #pog: user y є є τ Ъ σ ¡ typed "test"
+7-10-2020 08:21:00 [LOG] In case of unsupported characters, look up the "logs.txt" file
+7-10-2020 08:21:00 [LOG] The Judge is online
+6-10-2020 17:17:43 [LOG] In case of unsupported characters, look up the "logs.txt" file
+6-10-2020 17:17:43 [LOG] The Judge is online
+6-10-2020 14:58:22 [LOG] In case of unsupported characters, look up the "logs.txt"
+6-10-2020 14:58:22 [LOG] The Judge is online
+6-10-2020 14:17:13 [ERR] WARNING: unknown command at #pog: user y є є τ Ъ σ ¡ typed "test"
+6-10-2020 14:17:04 [LOG] The Judge is online
+6-10-2020 14:16:50 [LOG] The Judge is online
+6-10-2020 14:15:18 [LOG] The Judge is online
+6-10-2020 11:20:12 [LOG] y є є τ Ъ σ ¡ requested a judgement at #📷memes, the result is "up.mp4", file N° 8
+6-10-2020 10:23:14 [LOG] y є є τ Ъ σ ¡ requested a judgement at #pog, the result is "failed.mp4", file N° 9
+6-10-2020 10:23:02 [LOG] The Judge is online
+6-10-2020 09:43:46 [LOG] clodarzio requested a judgement at #📷memes, the result is "illegal.mp4"
+6-10-2020 09:23:19 [MES] y є є τ Ъ σ ¡ said :  ⣿⣿⣿⣿⡿⠟⠛⠛⠛⠛⠉⠉⠙⠛⠛⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠟⠀⠀
+⣿⣿⣯⣥⣤⣶⣶⣶⣶⣿⣿⣿⣿⣿⣿⣷⣾⣿⣿⣿⣿⣿⣿⣿⣏⣀⣀⣀⡀⠀
+⣿⣿⣿⣿⣿⣿⣿⡿⠿⠛⠛⠻⠿⠟⠉⠉⠉⢻⣿⣿⣿⡿⠟⠋⣡⣼⣿⣿⣿⡄
+⣿⣿⣿⣟⣭⣤⣶⣶⣿⣿⠃⠀⠀⢀⣀⣤⣶⣿⣿⣿⣿⡅⡀⢀⣩⣤⣤⠀⠀⠀
+⣿⣿⣿⣿⣿⣿⣛⡛⠛⠛⠛⢋⣩⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣛⠛⠛⠓⠠⠀⠀
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣤⣤⣤⣦⠀
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠿⠿⠿⢿⡿⢿⣿⣿⣿⠃
+⠿⠿⠿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣥⣄⣀⣀⠀⠀⠀⠀⠀⢰⣾⣿⣿⠏⠀
+⠀⠀⠀⠀⠀⠀⠉⣩⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣤⣜⡻⠋⠀⠀⠀
+⣰⣾⣷⣶⣿⣾⣖⣻⣿⣿⡿⣿⣿⣿⣿⠿⠿⠟⠛⠛⠛⠋⠉⠉⢉⡽⠃⠀⠀⠀
+⣿⣿⣿⣿⣿⣿⡉⠉⠉⠛⠛⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⡤⠚⠉⠀⠀⠀⠀⠀
+⠛⠛⣿⣿⣿⣿⣿⣿⣿⠉⠛⢶⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀
+⠠⣾⣿⣿⣿⣿⣿⠿⠟⠃⠀⠀⠀⠈⠲⣴⣦⣤⣤⣤⣶⡾⠁⠀⠀⠀⠀⠀⠀⠀
+⠄⠈⠉⠻⢿⣿⣿⡀
+6-10-2020 08:14:08 [LOG] The Judge is online
+5-10-2020 15:43:42 [LOG] The Judge is online
+5-10-2020 15:37:07 [LOG] The Judge is online
+5-10-2020 13:06:36 [LOG] The Judge is online
+5-10-2020 12:59:32 [MES] y є є τ Ъ σ ¡ said :  tua madre è bella come un maschio in calore da cinquant'anni
+5-10-2020 12:59:11 [LOG] y є є τ Ъ σ ¡ asked for a bruh moment at #pog
+5-10-2020 12:59:04 [LOG] y є є τ Ъ σ ¡ requested a judgement at #pog, the result is "scatman.mp4"
+5-10-2020 12:58:48 [ERR] WARNING: unknown command at #pog: user y є є τ Ъ σ ¡ typed "test"
+5-10-2020 12:57:32 [LOG] The Judge is online

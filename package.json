@@ -1,0 +1,31 @@
+{
+  "name": "meme_judge_heroku",
+  "version": "1.0.0",
+  "description": "h",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PoggersInTheChat/meme_judge_cloud.git"
+  },
+  "engines": {
+    "node": "14.15.0",
+    "npm": "6.14.8"
+  },
+  "keywords": [
+    "heroku",
+    "discord.js"
+  ],
+  "author": "YeetBoi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PoggersInTheChat/meme_judge_cloud/issues"
+  },
+  "homepage": "https://github.com/PoggersInTheChat/meme_judge_cloud#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}
