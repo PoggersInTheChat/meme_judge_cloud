@@ -74,7 +74,7 @@ client.on('message', async message => {
             message.channel.send("What?");
             logger.print(`WARNING: unknown command at #${message.channel.name}: user ${message.author.username} typed "${message.cleanContent.replace(prefix, "")}"`, 'err');
             break;
-        /*case "join.voice":
+        case "join.voice":
                 if (message.member.voice.channel){
                     let connection = await message.member.voice.channel.join();
                     let dispatcher = connection.play('./content/bruh.mp3')
@@ -88,7 +88,7 @@ client.on('message', async message => {
                 }else{
                 message.channel.send("you aren't in a voice channel")
                 }
-            break;*/
+            break;
         case "judge.num":
             let admin_role = '547512716764643359';
             let owner_role = '615215753829810205';
